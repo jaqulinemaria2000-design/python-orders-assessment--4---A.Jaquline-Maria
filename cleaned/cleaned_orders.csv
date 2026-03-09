@@ -1,0 +1,239 @@
+order_id,customer_id,order_date,amount,currency,status,items
+O00003,C0047,2025-09-28,157.72,USD,canceled,
+O00004,C0036,2025-04-02,280.78,GBP,Return,
+O00005,C0006,2025-12-07,325.21,EUR,COMPLETE,
+O00006,C0022,2025-04-26,144.64,GBP,Pending,
+O00007,C0030,2025-06-23,120.9,INR,Pending,
+O00008,C0014,2025-09-20,291.27,EUR,Pending,
+O00009,C0021,2025-05-09,306.37,EUR,Refunded,
+O00010,C0010,2025-05-20,122.1,GBP,Pending,"[{'sku': 'SKU658', 'qty': 2, 'unit_price': 165.28}, {'sku': 'SKU544', 'qty': 3, 'unit_price': 83.95}, {'sku': 'SKU707', 'qty': 1, 'unit_price': 89.81}]"
+O00011,C0044,2026-01-26,217.4,GBP,unknown,
+O00012,C0043,2025-08-12,185.15,USD,Pending,
+O00013,C9005,2026-05-01,374.57,GBP,PENDING,
+O00014,C0001,2025-09-14,153.33,INR,canceled,"[{'sku': 'SKU330', 'qty': 3, 'unit_price': 19.9}, {'sku': 'SKU762', 'qty': 2, 'unit_price': 5.0}]"
+O00015,C0030,2025-10-07,375.19,EUR,Refunded,
+O00016,C0010,2025-12-10,250.85,EUR,Return,
+O00017,C0006,2025-12-08,73.97,EUR,completed,"[{'sku': 'SKU368', 'qty': 3, 'unit_price': 5.0}, {'sku': 'SKU343', 'qty': 1, 'unit_price': 133.91}, {'sku': 'SKU980', 'qty': 1, 'unit_price': 94.2}, {'sku': 'SKU153', 'qty': 1, 'unit_price': 49.65}]"
+O00018,C0003,2025-09-03,374.43,EUR,PENDING,
+O00019,C0023,2025-07-25,403.29,INR,Cancelled,"[{'sku': 'SKU541', 'qty': 3, 'unit_price': 57.01}]"
+O00020,C0002,2025-07-07,264.78,GBP,Shipped,
+O00021,C0047,2026-01-19,71.94,GBP,completed,
+O00022,C0033,2025-06-18,196.48,INR,PENDING,
+O00023,C0012,2025-12-09,117.56,EUR,Cancelled,
+O00024,C0034,2025-04-23,290.56,EUR,Completed,
+O00025,C0033,2025-09-22,1.0,INR,PENDING,"[{'sku': 'SKU526', 'qty': 2, 'unit_price': 10.15}, {'sku': 'SKU220', 'qty': 1, 'unit_price': 126.16}, {'sku': 'SKU400', 'qty': 2, 'unit_price': 63.77}, {'sku': 'SKU631', 'qty': 1, 'unit_price': 18.36}]"
+O00026,C0055,2025-12-31,216.6,EUR,COMPLETE,
+O00027,C0010,2026-01-28,177.19,USD,unknown,
+O00028,C0020,2025-07-12,387.57,INR,COMPLETE,
+O00029,C0004,2025-09-28,215.63,GBP,Refunded,
+O00030,C0033,2025-10-31,282.07,GBP,COMPLETE,
+O00031,C0033,2025-07-16,-28.18,INR,Return,
+O00032,C0053,2025-11-04,0.0,EUR,completed,
+O00033,C0054,2026-01-26,146.6,GBP,Shipped,
+O00034,C0056,2025-09-13,216.74,INR,Shipped,
+O00035,C0029,2025-11-24,87.66,EUR,completed,
+O00036,C0044,2025-07-23,311.78,GBP,Shipped,
+O00037,C0028,2025-04-25,275.29,INR,Cancelled,
+O00038,C0031,2025-08-05,15000.0,EUR,completed,
+O00039,C0023,2025-06-21,138.22,USD,unknown,
+O00040,C0044,2025-08-30,344.68,USD,Cancelled,
+O00041,C0003,2026-01-22,386.85,USD,Pending,
+O00042,C0030,2025-10-11,245.47,INR,COMPLETE,"[{'sku': 'SKU735', 'qty': 1, 'unit_price': 45.13}]"
+O00043,C0011,2025-11-16,-17.85,USD,Return,
+O00044,C0055,2025-09-11,44.21,GBP,Shipped,
+O00045,C0045,2025-11-07,165.72,INR,Pending,"[{'sku': 'SKU434', 'qty': 1, 'unit_price': 84.64}]"
+O00046,C0012,2026-03-02,101.01,GBP,Return,
+O00047,C0032,2025-04-15,0.0,GBP,COMPLETE,
+O00048,C0021,2025-07-05,49.97,USD,canceled,
+O00049,C0034,2025-12-01,246.05,USD,Refunded,"[{'sku': 'SKU386', 'qty': 2, 'unit_price': 109.34}, {'sku': 'SKU314', 'qty': 1, 'unit_price': 74.3}]"
+O00050,C0008,2025-05-17,242.97,USD,Shipped,"[{'sku': 'SKU480', 'qty': 1, 'unit_price': 46.63}]"
+O00051,C0052,2025-10-31,117.73,USD,Cancelled,"[{'sku': 'SKU493', 'qty': 1, 'unit_price': 5.07}, {'sku': 'SKU802', 'qty': 2, 'unit_price': 5.0}, {'sku': 'SKU138', 'qty': 1, 'unit_price': 80.99}, {'sku': 'SKU127', 'qty': 2, 'unit_price': 157.13}]"
+O00052,C0014,2025-11-08,106.96,USD,canceled,
+O00053,C0045,2025-08-28,539.62,USD,Shipped,
+O00054,C0004,2025-08-23,314.65,INR,Shipped,"[{'sku': 'SKU941', 'qty': 1, 'unit_price': 24.21}, {'sku': 'SKU867', 'qty': 3, 'unit_price': 67.41}, {'sku': 'SKU829', 'qty': 1, 'unit_price': 31.35}]"
+O00055,C0003,2025-08-31,,EUR,Refunded,
+O00056,C0016,2025-11-16,6.5,EUR,Refunded,
+O00057,C0003,2025-05-13,168.79,GBP,unknown,
+O00058,C0011,2026-02-08,225.2,INR,unknown,
+O00059,C0002,2025-08-31,356.38,EUR,PENDING,
+O00060,C0052,2025-11-23,295.93,EUR,Completed,
+O00061,C0045,2025-08-08,132.7,INR,Refunded,
+O00062,C0044,2025-07-12,310.37,GBP,Shipped,
+O00063,C0037,2025-04-03,310.65,USD,canceled,
+O00064,C0030,2025-08-26,195.5,EUR,Return,
+O00065,C0031,2025-04-09,0.0,INR,COMPLETE,
+O00066,C0029,2025-07-09,246.92,USD,PENDING,
+O00067,C0054,2025-12-30,-38.94,GBP,Cancelled,
+O00068,C0054,2025-02-07,233.79,GBP,PENDING,
+O00069,C0011,2025-04-08,0.0,EUR,Cancelled,
+O00070,C0026,2025-06-06,251.88,EUR,completed,
+O00071,C0022,2025-10-28,41.97,GBP,Cancelled,
+O00072,C0016,2025-12-03,0.0,EUR,Cancelled,"[{'sku': 'SKU396', 'qty': 3, 'unit_price': 57.66}, {'sku': 'SKU315', 'qty': 1, 'unit_price': 35.62}, {'sku': 'SKU726', 'qty': 1, 'unit_price': 69.4}, {'sku': 'SKU425', 'qty': 1, 'unit_price': 63.33}]"
+O00073,C0038,2025-06-26,250.73,GBP,unknown,"[{'sku': 'SKU229', 'qty': 2, 'unit_price': 36.99}, {'sku': 'SKU207', 'qty': 2, 'unit_price': 77.27}]"
+O00074,C0003,2025-10-21,162.99,EUR,unknown,
+O00075,C0033,2026-01-13,323.68,INR,canceled,
+O00076,C0001,2025-08-13,91.0,INR,Shipped,
+O00077,C0056,2025-05-04,138.07,GBP,Return,
+O00078,C0011,2026-07-02,227.46,USD,completed,"[{'sku': 'SKU837', 'qty': 1, 'unit_price': 31.86}, {'sku': 'SKU681', 'qty': 3, 'unit_price': 5.0}, {'sku': 'SKU540', 'qty': 2, 'unit_price': 5.0}]"
+O00079,C0030,2025-04-07,152.8,USD,Pending,
+O00080,C0001,2025-11-16,264.62,EUR,PENDING,
+O00081,C0007,2025-07-27,197.49,GBP,canceled,
+O00082,C0023,2025-04-03,133.37,USD,Refunded,
+O00083,C0009,2026-01-28,84.22,USD,PENDING,
+O00084,C0023,2025-09-22,194.31,GBP,unknown,"[{'sku': 'SKU544', 'qty': 1, 'unit_price': 108.7}]"
+O00085,C0034,2025-12-24,469.51,EUR,Completed,
+O00086,C0051,2025-08-05,73.95,USD,Shipped,
+O00087,C0027,2025-04-09,311.33,INR,Pending,
+O00088,C0020,2025-05-22,277.15,EUR,Refunded,
+O00089,C0040,2025-11-06,524.55,INR,Shipped,
+O00090,C0038,2025-10-17,337.52,INR,Cancelled,
+O00091,C0016,2025-04-17,85.31,INR,canceled,
+O00092,C0008,2026-01-24,85.56,GBP,Return,
+O00093,C0024,2025-04-21,210.92,INR,Return,
+O00094,C9003,2026-10-02,60.33,GBP,Completed,
+O00095,C0039,2025-08-18,263.2,USD,completed,
+O00096,C0025,2025-08-12,332.31,INR,Completed,
+O00097,C0015,2025-12-05,187.69,GBP,completed,
+O00098,C0041,2025-09-12,220.74,GBP,Shipped,"[{'sku': 'SKU151', 'qty': 2, 'unit_price': 14.29}]"
+O00099,C0059,2026-01-26,,GBP,Completed,"[{'sku': 'SKU224', 'qty': 2, 'unit_price': 5.0}]"
+O00100,C0036,2025-04-04,8.12,GBP,canceled,
+O00101,C0029,2026-01-25,299.11,EUR,Cancelled,
+O00102,C0011,2025-07-15,-9.37,GBP,PENDING,
+O00103,C0051,2025-08-20,67.73,EUR,Pending,"[{'sku': 'SKU898', 'qty': 1, 'unit_price': 56.12}]"
+O00104,C0030,2025-12-13,402.81,INR,Completed,
+O00105,C0025,2025-11-24,179.29,USD,canceled,
+O00106,C0036,2025-11-11,203.46,INR,Refunded,
+O00107,C0005,2025-12-04,160.42,EUR,COMPLETE,"[{'sku': 'SKU233', 'qty': 3, 'unit_price': 88.63}, {'sku': 'SKU155', 'qty': 3, 'unit_price': 94.94}]"
+O00108,C0044,2025-05-06,224.29,GBP,canceled,"[{'sku': 'SKU938', 'qty': 2, 'unit_price': 5.59}]"
+O00109,C0024,2025-11-24,337.47,EUR,Return,
+O00110,C0052,2026-01-04,226.89,EUR,Cancelled,
+O00111,C0059,2025-03-04,274.12,USD,Shipped,
+O00112,C0044,2025-04-14,253.99,INR,COMPLETE,
+O00113,C0054,2025-09-29,109.17,GBP,completed,
+O00114,C0060,2025-04-24,138.61,USD,unknown,
+O00115,C0032,2025-04-17,327.46,EUR,Completed,
+O00116,C0046,2026-03-02,252.25,GBP,Completed,
+O00117,C0024,2025-09-11,575.31,INR,Pending,
+O00118,C0041,2025-06-02,252.14,USD,unknown,
+O00119,C0056,2025-01-06,225.33,INR,completed,
+O00120,C0015,2025-05-11,350.11,USD,completed,"[{'sku': 'SKU843', 'qty': 3, 'unit_price': 57.25}]"
+O00121,C0031,2026-01-02,206.53,EUR,Shipped,
+O00122,C0020,2025-11-13,7.23,GBP,Shipped,"[{'sku': 'SKU251', 'qty': 1, 'unit_price': 18.01}, {'sku': 'SKU464', 'qty': 3, 'unit_price': 76.94}]"
+O00123,C0024,2025-07-09,210.37,GBP,Cancelled,
+O00124,C0016,2025-10-07,132.04,INR,COMPLETE,"[{'sku': 'SKU739', 'qty': 2, 'unit_price': 58.05}, {'sku': 'SKU843', 'qty': 3, 'unit_price': 33.89}]"
+O00125,C0047,2025-12-27,203.05,GBP,PENDING,"[{'sku': 'SKU909', 'qty': 2, 'unit_price': 35.99}, {'sku': 'SKU232', 'qty': 3, 'unit_price': 46.91}, {'sku': 'SKU766', 'qty': 1, 'unit_price': 48.79}, {'sku': 'SKU575', 'qty': 3, 'unit_price': 110.42}]"
+O00126,C0047,2025-05-10,274.85,INR,PENDING,
+O00127,C0049,2025-05-22,265.54,INR,Pending,"[{'sku': 'SKU685', 'qty': 3, 'unit_price': 11.29}, {'sku': 'SKU314', 'qty': 2, 'unit_price': 78.19}, {'sku': 'SKU407', 'qty': 2, 'unit_price': 32.03}, {'sku': 'SKU381', 'qty': 2, 'unit_price': 41.11}]"
+O00128,C0018,2025-09-13,273.36,EUR,Shipped,
+O00129,C0059,2025-06-19,180.66,INR,Completed,
+O00130,C0037,2025-05-24,192.74,USD,Refunded,"[{'sku': 'SKU624', 'qty': 3, 'unit_price': 50.25}, {'sku': 'SKU375', 'qty': 3, 'unit_price': 90.7}]"
+O00131,C0026,2026-02-13,385.03,INR,Pending,
+O00132,C0048,2026-01-08,311.49,USD,unknown,
+O00133,C0002,2025-07-29,0.0,USD,PENDING,
+O00134,C0052,2025-08-03,87.75,USD,canceled,
+O00135,C0020,2025-03-09,250.46,USD,Pending,
+O00136,C0005,2025-06-17,103.95,USD,completed,"[{'sku': 'SKU312', 'qty': 3, 'unit_price': 34.68}, {'sku': 'SKU127', 'qty': 1, 'unit_price': 64.37}, {'sku': 'SKU525', 'qty': 3, 'unit_price': 33.96}, {'sku': 'SKU490', 'qty': 1, 'unit_price': 72.64}]"
+O00137,C9005,2025-10-16,-30.32,INR,Completed,
+O00138,C9001,2025-06-19,167.88,GBP,completed,
+O00139,C0022,2025-04-10,9999.99,USD,COMPLETE,
+O00140,C0046,2025-11-29,328.88,GBP,PENDING,"[{'sku': 'SKU378', 'qty': 2, 'unit_price': 47.14}, {'sku': 'SKU449', 'qty': 3, 'unit_price': 69.99}, {'sku': 'SKU734', 'qty': 3, 'unit_price': 103.33}, {'sku': 'SKU673', 'qty': 2, 'unit_price': 5.0}]"
+O00141,C0032,2025-06-21,229.54,EUR,Return,
+O00142,C0057,2026-01-19,-33.47,EUR,PENDING,
+O00143,C0027,2025-04-11,287.05,EUR,Return,
+O00144,C0007,2025-03-11,379.72,GBP,PENDING,
+O00145,C0035,2025-11-17,1.0,EUR,canceled,"[{'sku': 'SKU211', 'qty': 1, 'unit_price': 106.17}, {'sku': 'SKU495', 'qty': 3, 'unit_price': 82.77}, {'sku': 'SKU918', 'qty': 2, 'unit_price': 38.4}, {'sku': 'SKU963', 'qty': 3, 'unit_price': 22.11}]"
+O00146,C0051,2025-04-27,86.73,GBP,Shipped,
+O00147,C0009,2025-01-09,296.46,EUR,Pending,
+O00148,C0048,2025-02-04,418.15,EUR,Return,"[{'sku': 'SKU925', 'qty': 3, 'unit_price': 71.54}, {'sku': 'SKU746', 'qty': 1, 'unit_price': 27.82}]"
+O00149,C0040,2025-04-19,155.45,EUR,Cancelled,"[{'sku': 'SKU752', 'qty': 3, 'unit_price': 125.81}]"
+O00150,C0048,2025-04-24,376.85,EUR,PENDING,
+O00151,C9005,2025-07-04,-15.78,USD,Refunded,
+O00152,C0036,2026-01-24,283.95,USD,PENDING,
+O00153,C0007,2025-06-11,137.32,INR,COMPLETE,
+O00154,C0048,2025-10-08,394.74,GBP,Refunded,
+O00155,C0059,2025-10-14,0.0,EUR,completed,
+O00156,C0041,2025-12-16,280.69,INR,Pending,"[{'sku': 'SKU786', 'qty': 1, 'unit_price': 58.32}, {'sku': 'SKU132', 'qty': 1, 'unit_price': 80.14}, {'sku': 'SKU346', 'qty': 2, 'unit_price': 106.48}, {'sku': 'SKU394', 'qty': 1, 'unit_price': 23.4}]"
+O00157,C0011,2025-10-29,362.15,GBP,Return,
+O00158,C0015,2025-09-06,235.51,INR,canceled,"[{'sku': 'SKU757', 'qty': 3, 'unit_price': 25.06}]"
+O00159,C0048,2026-05-01,449.74,USD,Pending,"[{'sku': 'SKU612', 'qty': 2, 'unit_price': 80.36}]"
+O00160,C0032,2025-04-11,44.72,GBP,completed,
+O00161,C0049,2025-09-13,241.12,USD,Pending,
+O00162,C0039,2025-07-17,0.0,USD,canceled,
+O00163,C0005,2025-08-12,226.65,USD,COMPLETE,"[{'sku': 'SKU482', 'qty': 2, 'unit_price': 48.68}]"
+O00164,C9001,2025-01-11,0.0,USD,completed,
+O00165,C0039,2025-01-11,366.7,EUR,Cancelled,"[{'sku': 'SKU843', 'qty': 3, 'unit_price': 32.0}, {'sku': 'SKU895', 'qty': 3, 'unit_price': 49.44}, {'sku': 'SKU855', 'qty': 2, 'unit_price': 122.5}, {'sku': 'SKU459', 'qty': 1, 'unit_price': 20.51}]"
+O00166,C9005,2026-02-10,199.34,GBP,unknown,"[{'sku': 'SKU960', 'qty': 1, 'unit_price': 61.75}, {'sku': 'SKU546', 'qty': 1, 'unit_price': 6.8100000000000005}]"
+O00167,C0052,2025-04-04,348.11,EUR,COMPLETE,"[{'sku': 'SKU577', 'qty': 2, 'unit_price': 60.23}]"
+O00168,C0052,2026-01-18,370.75,GBP,PENDING,
+O00169,C0001,2025-10-11,138.82,GBP,Refunded,
+O00170,C0010,2025-10-15,105.11,INR,completed,
+O00171,C0052,2025-04-10,90.81,GBP,Pending,
+O00172,C0059,2025-07-16,49.19,GBP,Completed,
+O00173,C0019,2025-05-23,240.38,GBP,Completed,
+O00174,C0015,2025-10-04,323.35,EUR,Pending,
+O00175,C0007,2026-01-12,81.95,GBP,Cancelled,
+O00176,C0039,2025-02-12,-6.08,EUR,PENDING,"[{'sku': 'SKU486', 'qty': 2, 'unit_price': 16.15}, {'sku': 'SKU472', 'qty': 1, 'unit_price': 25.05}]"
+O00177,C0035,2025-05-13,329.21,GBP,Pending,
+O00178,C0031,2026-02-14,271.65,GBP,canceled,"[{'sku': 'SKU389', 'qty': 3, 'unit_price': 22.77}, {'sku': 'SKU596', 'qty': 2, 'unit_price': 77.55}, {'sku': 'SKU838', 'qty': 1, 'unit_price': 127.03}]"
+O00179,C0035,2026-01-17,88.48,USD,unknown,
+O00180,C0028,2025-04-20,0.0,GBP,Pending,
+O00181,C0059,2025-05-10,0.0,GBP,Pending,
+O00182,C9005,2025-08-20,0.0,GBP,Completed,
+O00183,C0052,2026-01-28,293.11,INR,Cancelled,"[{'sku': 'SKU472', 'qty': 3, 'unit_price': 66.06}, {'sku': 'SKU703', 'qty': 3, 'unit_price': 31.45}, {'sku': 'SKU197', 'qty': 3, 'unit_price': 56.14}]"
+O00184,C0010,2025-05-24,154.7,EUR,Cancelled,
+O00185,C0055,2025-08-12,270.66,GBP,Cancelled,
+O00186,C0008,2025-06-05,358.44,GBP,Return,"[{'sku': 'SKU204', 'qty': 2, 'unit_price': 87.4}, {'sku': 'SKU910', 'qty': 3, 'unit_price': 112.1}]"
+O00187,C0045,2025-11-30,284.12,INR,Cancelled,
+O00188,C0043,2025-05-20,57.75,EUR,completed,
+O00189,C0003,2025-05-31,,GBP,Pending,
+O00190,C0011,2025-08-13,224.38,EUR,completed,"[{'sku': 'SKU191', 'qty': 1, 'unit_price': 85.94}, {'sku': 'SKU858', 'qty': 3, 'unit_price': 79.76}, {'sku': 'SKU868', 'qty': 3, 'unit_price': 64.14}, {'sku': 'SKU300', 'qty': 2, 'unit_price': 55.76}]"
+O00191,C0048,2025-08-31,249.12,EUR,unknown,
+O00192,C0010,2025-09-12,166.2,INR,Pending,
+O00193,C0033,2025-10-09,98.81,GBP,Shipped,
+O00194,C0056,2025-06-15,329.95,INR,canceled,"[{'sku': 'SKU146', 'qty': 2, 'unit_price': 63.14}, {'sku': 'SKU180', 'qty': 3, 'unit_price': 89.19}, {'sku': 'SKU803', 'qty': 3, 'unit_price': 5.0}]"
+O00195,C0005,2025-10-20,1.0,INR,Pending,"[{'sku': 'SKU347', 'qty': 1, 'unit_price': 5.0}, {'sku': 'SKU982', 'qty': 2, 'unit_price': 28.71}, {'sku': 'SKU342', 'qty': 1, 'unit_price': 32.35}]"
+O00196,C0028,2025-04-11,225.86,INR,Completed,"[{'sku': 'SKU131', 'qty': 2, 'unit_price': 72.25}]"
+O00197,C0046,2025-06-10,230.96,USD,Completed,"[{'sku': 'SKU512', 'qty': 3, 'unit_price': 60.92}, {'sku': 'SKU923', 'qty': 2, 'unit_price': 41.84}, {'sku': 'SKU179', 'qty': 2, 'unit_price': 96.59}]"
+O00198,C0005,2025-07-06,253.92,USD,Refunded,
+O00199,C0030,2025-12-17,186.57,GBP,completed,
+O00200,C9001,2025-05-17,234.43,INR,Cancelled,
+O00201,C0005,2025-06-25,66.92,GBP,canceled,
+O00202,C0041,2026-01-22,-38.1,EUR,canceled,
+O00203,C0003,2025-09-12,182.84,USD,Cancelled,
+O00204,C0057,2025-09-10,316.77,GBP,unknown,
+O00205,C0042,2025-06-06,174.95,USD,Pending,
+O00206,C0019,2025-09-10,71.58,USD,canceled,
+O00207,C0033,2025-07-31,247.55,INR,Pending,
+O00208,C0049,2025-09-10,234.3,GBP,completed,
+O00209,C0027,2026-01-25,330.92,GBP,completed,
+O00210,C0024,2025-04-30,135.69,EUR,Pending,
+O00211,C0035,2025-12-13,353.77,EUR,completed,
+O00212,C0006,2026-01-01,0.0,INR,PENDING,
+O00213,C0044,2025-11-18,,USD,Cancelled,
+O00214,C0018,2025-12-11,73.11,EUR,unknown,
+O00215,C0059,2025-08-06,344.16,EUR,completed,
+O00216,C0038,2025-11-26,317.71,USD,Refunded,"[{'sku': 'SKU438', 'qty': 2, 'unit_price': 39.64}, {'sku': 'SKU702', 'qty': 3, 'unit_price': 87.15}]"
+O00217,C0049,2025-01-12,306.59,GBP,COMPLETE,
+O00218,C0025,2025-09-12,188.46,EUR,Completed,"[{'sku': 'SKU624', 'qty': 1, 'unit_price': 54.64}, {'sku': 'SKU646', 'qty': 1, 'unit_price': 65.87}]"
+O00219,C0036,2025-10-08,60.64,USD,COMPLETE,
+O00220,C0030,2026-01-21,197.5,GBP,Refunded,
+O00221,C0037,2025-09-10,501.85,GBP,Refunded,
+O00222,C0021,2025-05-27,170.12,INR,canceled,
+O00223,C0034,2025-11-03,365.9,GBP,PENDING,"[{'sku': 'SKU156', 'qty': 3, 'unit_price': 5.6}, {'sku': 'SKU618', 'qty': 1, 'unit_price': 79.86}]"
+O00224,C0032,2025-11-14,275.72,EUR,Cancelled,
+O00225,C0030,2025-08-04,232.57,EUR,Pending,
+O00226,C0013,2025-04-25,152.38,GBP,COMPLETE,
+O00227,C0014,2025-12-20,0.0,USD,PENDING,
+O00228,C0052,2025-12-21,284.69,USD,Completed,"[{'sku': 'SKU304', 'qty': 1, 'unit_price': 64.57}, {'sku': 'SKU924', 'qty': 3, 'unit_price': 102.7}]"
+O00229,C0025,2025-05-21,262.42,EUR,COMPLETE,
+O00230,C0056,2026-11-01,128.39,INR,Shipped,
+O00231,C0021,2025-10-26,339.77,EUR,Pending,
+O00232,C0051,2025-09-18,309.25,GBP,Shipped,"[{'sku': 'SKU555', 'qty': 1, 'unit_price': 55.29}, {'sku': 'SKU391', 'qty': 3, 'unit_price': 22.06}, {'sku': 'SKU259', 'qty': 1, 'unit_price': 37.1}, {'sku': 'SKU347', 'qty': 2, 'unit_price': 60.33}]"
+O00233,C0049,2025-03-04,44.34,GBP,PENDING,"[{'sku': 'SKU990', 'qty': 2, 'unit_price': 41.66}, {'sku': 'SKU816', 'qty': 1, 'unit_price': 51.95}, {'sku': 'SKU682', 'qty': 2, 'unit_price': 61.44}]"
+O00234,C0029,2025-06-10,297.87,USD,Cancelled,
+O00235,C0050,2025-05-12,49.27,INR,Shipped,
+O00236,C0054,2025-12-11,295.39,EUR,Refunded,"[{'sku': 'SKU159', 'qty': 2, 'unit_price': 73.93}, {'sku': 'SKU468', 'qty': 1, 'unit_price': 19.57}, {'sku': 'SKU358', 'qty': 3, 'unit_price': 94.28}]"
+O00237,C0040,2025-11-26,110.54,INR,completed,
+O00238,C0035,2025-05-06,190.51,GBP,completed,
+O00239,C0010,2025-12-01,17.38,EUR,Pending,
+O00240,C0053,2026-01-22,228.74,INR,Refunded,
