@@ -1,0 +1,3 @@
+customer_id,segment,kyc_status,risk_score,country_iso2,effective_from,effective_to,is_current,updated_at,next_effective_from,issue
+C0019,SMB,REJECTED,91,USA,2025-06-01 16:20:05,2025-08-22 16:20:05,0,2026-03-09 16:20:05,2025-08-12 16:20:05,OVERLAPPING_SCD2
+C0031,Silver,VERIFIED,22,U.S.,2025-06-14 16:20:05,2025-08-17 16:20:05,0,2026-03-09 16:20:05,2025-08-08 16:20:05,OVERLAPPING_SCD2
